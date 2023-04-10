@@ -1,0 +1,25 @@
+# 内容：一些国内软件进程
+# 数量：
+# 阿里云盘
+PROCESS-NAME,clouddrive.exe
+
+# Wallhaven 壁纸网站软件
+PROCESS-NAME,Wallhaven.exe
+
+# 阿里云盘 小白羊版本(旧版)
+PROCESS-NAME,aliCloudy_xiaobaiyang.exe
+
+# 阿里云盘 小白羊版本(新版)
+PROCESS-NAME,alixby.exe
+
+# 火绒安全软件
+PROCESS-NAME,HipsDaemon.exe
+
+# PotPlayer 视频播放器
+PROCESS-NAME,PotPlayerMini64.exe
+
+# 迅雷下载
+PROCESS-NAME,DownloadSDKServer.exe
+
+# PowerShell
+PROCESS-NAME,pwsh.exe

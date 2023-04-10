@@ -1,0 +1,5 @@
+# 内容：洛奇英雄传 国服
+# 数量：
+PROCESS-NAME,heroes_x64.exe
+PROCESS-NAME,TCGame.exe
+PROCESS-NAME,HeroesLauncher.exe
