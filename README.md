@@ -1,4 +1,8 @@
-# Clash for window![](https://raw.githubusercontent.com/Parantric/picture-bed/main/202303140201304.jpg)
+# 🐵 Clash for window
+
+![](https://img.shields.io/badge/-clash%20for%20window%20%E8%87%AA%E7%94%A8-green)
+
+![](https://raw.githubusercontent.com/Parantric/picture-bed/main/202303140201304.jpg)
 
 ---
 
