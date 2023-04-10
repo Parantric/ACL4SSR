@@ -23,3 +23,6 @@ PROCESS-NAME,DownloadSDKServer.exe
 
 # PowerShell
 PROCESS-NAME,pwsh.exe
+
+# Chrome
+PROCESS-NAME,chrome.exe
