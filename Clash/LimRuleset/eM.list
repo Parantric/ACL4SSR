@@ -1,0 +1,3 @@
+# 内容：eM Client
+# 配置走香港节点，解决使用 Gmail 不能发送邮件的问题。
+PROCESS-NAME,MailClient.exe
