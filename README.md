@@ -26,9 +26,18 @@
 
 :video_camera: [DNS 泄露](https://www.youtube.com/watch?v=fqREM6b25SY&t=398s)
 
----
+## ✍️ **常用正则**
 
-### :books: 参考
+```javascript
+(A).*(B)        节点名既有 A又有 B
+(A)|(B)         节点名有 A 或者 B  
+^((?!A).)*$     节点名不含有 A
+(?!.*(A)).*(B)  节点名不含有 A，同时含有 B
+```
+
+
+
+## :books: 参考
 
 :bookmark: [正则表达式教程 GitHub 文档](https://github.com/Parantric/learn-regex/blob/master/translations/README-cn.md)
 
