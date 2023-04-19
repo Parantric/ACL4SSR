@@ -130,7 +130,7 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
 
 # 自定义国内网站(2023年04月15日 22时:57分:33秒)
-DOMAIN-SUFFIX,b168.net
+DOMAIN,b168.net
 # Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
