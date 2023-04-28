@@ -2,4 +2,4 @@
 # 数量：
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amazonaws.com
-PROCESS-NAME,Notion.exe
+; PROCESS-NAME,Notion.exe
