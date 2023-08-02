@@ -1,0 +1,11 @@
+# 内容：新瑪奇英雄傳 台服
+# 数量：
+PROCESS-NAME,heroes_x64.exe
+PROCESS-NAME,nexon_launcher.exe
+PROCESS-NAME,nexon_runtime.exe
+PROCESS-NAME,nexon_updater.exe
+PROCESS-NAME,nexon_agent.exe
+PROCESS-NAME,heroes.exe
+PROCESS-NAME,NMService.exe
+PROCESS-NAME,srcds_x64.exe
+PROCESS-NAME,srcds.exe
