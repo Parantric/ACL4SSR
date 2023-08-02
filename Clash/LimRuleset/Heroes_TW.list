@@ -9,3 +9,4 @@ PROCESS-NAME,heroes.exe
 PROCESS-NAME,NMService.exe
 PROCESS-NAME,srcds_x64.exe
 PROCESS-NAME,srcds.exe
+PROCESS-NAME,nexon_client.exe
