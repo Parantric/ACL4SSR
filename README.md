@@ -45,6 +45,3 @@
 :bookmark: [Markdown 官方文档](https://markdown.com.cn/)
 
 :bookmark: [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
-
----
-

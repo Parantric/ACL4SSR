@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
 
+<<<<<<< HEAD
 # 自定义国内网站(2023年04月15日 22时:57分:33秒)
 DOMAIN,b168.net
 # Blizzard
@@ -137,6 +138,8 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
+=======
+>>>>>>> 1dc5c92b0c8ceaaecbc66530c309961f53e52c8c
 # ByteDance
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdxiguaimg.com
