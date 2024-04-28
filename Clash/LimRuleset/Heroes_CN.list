@@ -8,3 +8,4 @@ PROCESS-NAME,tcUpdate.exe
 PROCESS-NAME,srcds_x64.exe
 PROCESS-NAME,srcds.exe
 PROCESS-NAME,GameToTCG.exe
+PROCESS-NAME,BlackXchg.aes
