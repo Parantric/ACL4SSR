@@ -3,3 +3,8 @@
 PROCESS-NAME,heroes_x64.exe
 PROCESS-NAME,TCGame.exe
 PROCESS-NAME,HeroesLauncher.exe
+PROCESS-NAME,TCGCheckPCInfo.exe
+PROCESS-NAME,tcUpdate.exe
+PROCESS-NAME,srcds_x64.exe
+PROCESS-NAME,srcds.exe
+PROCESS-NAME,GameToTCG.exe
