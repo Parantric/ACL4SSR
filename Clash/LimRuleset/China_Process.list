@@ -27,3 +27,10 @@ PROCESS-NAME,pwsh.exe
 # m3u8 视频下载
 PROCESS-NAME,N_m3u8DL-CLI-SimpleG.exe
 PROCESS-NAME,N_m3u8DL-CLI_v3.0.2.exe
+
+# 阿里云网盘
+PROCESS-NAME,clouddrive.exe
+
+# 视频压缩工具
+PROCESS-NAME,HandBrake.exe
+PROCESS-NAME,HandBrake.Worker.exe
