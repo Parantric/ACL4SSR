@@ -34,3 +34,7 @@ PROCESS-NAME,clouddrive.exe
 # 视频压缩工具
 PROCESS-NAME,HandBrake.exe
 PROCESS-NAME,HandBrake.Worker.exe
+
+
+# 资源管理器 第三方软件 OneCommander.exe
+PROCESS-NAME,OneCommander.exe
