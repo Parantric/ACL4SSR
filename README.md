@@ -8,9 +8,7 @@
 
 ## :smile_cat: clash for window 软件
 
-:arrow_down: [官方下载](https://github.com/Fndroid/clash_for_windows_pkg)
-
-:cn: [汉化补丁](https://github.com/BoyceLig/Clash_Chinese_Patch)
+> CFW 软件作者与已经不在维护并删库.
 
 ## :pushpin: 规则
 
