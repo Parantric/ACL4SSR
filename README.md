@@ -1,4 +1,4 @@
-# 🐵 Clash for window
+# 🐵 Clash for Window
 
 ![](https://img.shields.io/badge/-clash%20for%20window%20%E8%87%AA%E7%94%A8-green)
 
@@ -10,13 +10,15 @@
 
 > CFW 软件作者与已经不在维护并删库.
 
-## :pushpin: 规则
+> `clash-verge-rev` `CFW` 的替代品 [**🐈 仓库地址**](https://github.com/clash-verge-rev/clash-verge-rev)
 
-:book: [clash for window 官方文档](https://docs.cfw.lbyczf.com/)
+## 📄 文档说明
 
-:link: [个人用远程配置文件](https://github.com/Parantric/ACL4SSR/blob/master/Clash/config/ACL4SSR_Online_Full.ini)
+🐱​ [**Clash Verge Rev Docs**](https://clash-verge-rev.github.io/)
 
-:link: [规则集目录](https://github.com/Parantric/ACL4SSR/tree/master/Clash/Ruleset)
+:link: [**远程配置文件**](https://github.com/Parantric/ACL4SSR/tree/master/Clash/config)
+
+:link: [**规则集目录**](https://github.com/Parantric/ACL4SSR/tree/master/Clash/Ruleset)
 
 ## :globe_with_meridians: DNS 相关
 
@@ -36,10 +38,16 @@
 
 ## :books: 参考
 
-:bookmark: [正则表达式教程 GitHub 文档](https://github.com/Parantric/learn-regex/blob/master/translations/README-cn.md)
+:bookmark: [**正则表达式教程 GitHub 文档**](https://github.com/Parantric/learn-regex/blob/master/translations/README-cn.md)
 
-:bookmark: [策略组概念和理解以及书写规范](https://github.com/Fndroid/jsbox_script/wiki/%E5%85%B3%E4%BA%8E%E7%AD%96%E7%95%A5%E7%BB%84%E7%9A%84%E7%90%86%E8%A7%A3)
+:bookmark: [**策略组概念和理解以及书写规范**](https://github.com/Fndroid/jsbox_script/wiki/%E5%85%B3%E4%BA%8E%E7%AD%96%E7%95%A5%E7%BB%84%E7%9A%84%E7%90%86%E8%A7%A3)
 
-:bookmark: [Markdown 官方文档](https://markdown.com.cn/)
+:bookmark: [**Markdown 官方文档**](https://markdown.com.cn/)
 
-:bookmark: [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
+:bookmark: [**ACL4SSR**](https://github.com/ACL4SSR/ACL4SSR/tree/master)
+
+🔖 [**TUN 模式详细说明**](https://wiki.metacubex.one/config/inbound/tun/)
+
+🔖 [**规则配置说明**](https://wiki.metacubex.one/config/rules/)
+
+🔖 [**很全面的文档**](https://wiki.metacubex.one/config/)
