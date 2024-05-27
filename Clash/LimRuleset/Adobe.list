@@ -1,0 +1,10 @@
+# 内容：Adobe 系列软件
+# 数量：
+# PS
+PROCESS-NAME,Photoshop.exe
+
+# PR
+PROCESS-NAME,Adobe Premiere Pro.exe
+
+# Me
+PROCESS-NAME,Adobe Media Encoder.exe
