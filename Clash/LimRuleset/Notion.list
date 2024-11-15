@@ -1,5 +1,5 @@
 # 内容：Notion
 # 数量：
-DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,amazonaws.com
-; PROCESS-NAME,Notion.exe
+# DOMAIN-SUFFIX,notion.so
+# DOMAIN-SUFFIX,amazonaws.com
+PROCESS-NAME,Notion.exe
